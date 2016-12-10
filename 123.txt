@@ -1,5 +1,0 @@
-FATAL - ---fatal---
-ERROR - ---error---
-WARN - ---warn---
-INFO - ---info---
-INFO - ---debug---
